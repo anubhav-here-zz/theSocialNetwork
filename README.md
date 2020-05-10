@@ -32,7 +32,7 @@ The Social Network requires [Python 3.7.2](https://www.python.org/downloads/) to
 
 If you wish to run the app locally you can clone from the [repository](https://github.com/DevangJ/theSocialNetwork)
 ```sh
-$ git clone https://github.com/DevangJ/theSocialNetwork
+$ git clone https://github.com/anubhav-here/theSocialNetwork
 ```
 
 Create the postgreSQL database from the given dump
